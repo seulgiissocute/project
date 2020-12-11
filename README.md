@@ -13,5 +13,5 @@
   
   - 사용된 부품 : 토양수분센서, 워터펌프, 모터드라이브, ADC모듈, LED, 미니브레드보드, 수조, 고무호스, 화분
   
-  - 순서도
-   (이미지 파일 넣기) <img width="" height="" src="./png/flowchart.png"></img>
+  - 순서도  
+  ![flowchart](https://user-images.githubusercontent.com/71371940/101876756-4ada7800-3bd0-11eb-97d4-a5b9da465ff1.JPG)
