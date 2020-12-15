@@ -54,7 +54,8 @@
 
   ### 시스템 구조
   - 시스템 구성도
-      ![structure](https://user-images.githubusercontent.com/71371940/101891035-dcec7b80-3be4-11eb-9c4b-831a60f7b424.png)
+     ![structure2](https://user-images.githubusercontent.com/71371940/102211771-75ea0200-3f17-11eb-8d67-3a20d9d93306.JPG)
+
 
 
   - 순서도  
