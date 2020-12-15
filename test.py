@@ -2,12 +2,22 @@ import RPi.GPIO as GPIO
 
 import time
 import spidev
+import telepot
 
+telegram_id = '1417051484'
+my_token = '1430018325:AAFJT1QvjzRoc-jM3xYbaAX-RTq10-qPjN4'
+
+bot = telepot.Bot(my_token)
+
+msg = '수분 부족! 화분에 물을 공급합니다.'
+msg2 = '수분 공급이 완료되었습니다.'
+
+a = 1
+b = 1
 
 A1A = 5
 
 A1B = 6
-
 
 HUM_THRESHOLD=33
 
@@ -60,11 +70,23 @@ try:
 
         if hum <= HUM_THRESHOLD :
             
+            print(hum)
+            
+            if a == 1:
+                bot.sendMessage(chat_id = telegram_id, text = msg)
+                a -= 1
+            
             GPIO.output(A1A,GPIO.HIGH) 
 
             GPIO.output(A1B,GPIO.LOW)
 
         else :
+            
+            print(hum)
+            
+            if b == 1:
+                bot.sendMessage(chat_id = telegram_id, text = msg2)
+                b -= 1
 
             GPIO.output(A1A,GPIO.LOW)
 
