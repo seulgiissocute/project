@@ -84,7 +84,7 @@
       
   - 텔레그램 연동 화면
   
-    ![image](https://user-images.githubusercontent.com/71371940/102312991-12adad80-3fb3-11eb-891f-f2807c4636e5.png)
+    ![image](https://user-images.githubusercontent.com/71371940/102314428-c44dde00-3fb5-11eb-90b5-1edd4109e7eb.png)
 
 
   
