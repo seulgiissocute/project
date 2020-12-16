@@ -63,3 +63,4 @@
   - 순서도  
       ![flowchart2](https://user-images.githubusercontent.com/71371940/102121450-560afd80-3e87-11eb-8fd9-197582e001b7.JPG)
 
+ <iframe width="640" height="360" src="https://youtu.be/Pdvo6kronb4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
