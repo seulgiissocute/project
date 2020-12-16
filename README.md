@@ -1,5 +1,8 @@
 # 무선네트워크 프로젝트
 
+##일정
+![캡처](https://user-images.githubusercontent.com/71330163/102308013-06bcee00-3fa9-11eb-83f8-aaa8ec2ed2f5.PNG)
+
 ## 팀원
 - 경규영, 박선우, 이슬기, 정승원
 
