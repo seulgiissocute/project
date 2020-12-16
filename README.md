@@ -75,7 +75,14 @@
   - 수분이 충분할 때
       - 워터펌프 중지
       - LED 소등
+      
       ![임계치이상](https://user-images.githubusercontent.com/71371940/102312725-94e9a200-3fb2-11eb-932d-a934b1834166.JPG)
+      
+      
+  - 텔레그램 연동 화면
+  
+    ![image](https://user-images.githubusercontent.com/71371940/102312991-12adad80-3fb3-11eb-891f-f2807c4636e5.png)
+
 
   
 
