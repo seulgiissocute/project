@@ -64,5 +64,15 @@
       ![flowchart2](https://user-images.githubusercontent.com/71371940/102121450-560afd80-3e87-11eb-8fd9-197582e001b7.JPG)
       
   ### 스마트화분 구현 화면
-   ![구현화면](https://user-images.githubusercontent.com/71371940/102312553-43d9ae00-3fb2-11eb-98ce-54cd9b58f83a.JPG)
+  
+  - 워터펌프 가동 화면
+  
+     ![물 나올때](https://user-images.githubusercontent.com/71371940/102312690-84392c00-3fb2-11eb-8ab2-4dd1c5227622.JPG)
+
+
+  - 수분이 충분할 때
+  
+      ![임계치이상](https://user-images.githubusercontent.com/71371940/102312725-94e9a200-3fb2-11eb-932d-a934b1834166.JPG)
+
+  
 
