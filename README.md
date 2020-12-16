@@ -62,4 +62,8 @@
 
   - 순서도  
       ![flowchart2](https://user-images.githubusercontent.com/71371940/102121450-560afd80-3e87-11eb-8fd9-197582e001b7.JPG)
+      
+  ### 스마트화분 구현 화면
+   ![KakaoTalk_20201216_134510488](https://user-images.githubusercontent.com/71371940/102312387-f65d4100-3fb1-11eb-9d12-36730d18f1fd.jpg)
+
 
