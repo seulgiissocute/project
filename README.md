@@ -63,7 +63,7 @@
   - 순서도  
       ![flowchart2](https://user-images.githubusercontent.com/71371940/102121450-560afd80-3e87-11eb-8fd9-197582e001b7.JPG)
       
-  ### 스마트화분 구현 화면
+  ## 스마트화분 구현 화면
   
   - 워터펌프 가동 화면
       - 워터펌프 가동
