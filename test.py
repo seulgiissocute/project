@@ -40,6 +40,18 @@ spi=spidev.SpiDev()
 spi.open(0,0)
 spi.max_speed_hz=500000
 
+def led_on(pin):
+    GPIO.setmode(GPIO.BCM)
+    GPIO.setup(pin, GPIO.OUT)
+
+    GPIO.output(pin, True)
+
+def led_off(pin):
+    GPIO.setmode(GPIO.BCM)
+    GPIO.setup(pin, GPIO.OUT)
+
+    GPIO.cleanup(pin)
+
 def read_spi_adc(adcChannel):
     adcValue=0
 
@@ -72,6 +84,8 @@ try:
             
             print(hum)
             
+            led_on(17)
+            
             if a == 1:
                 bot.sendMessage(chat_id = telegram_id, text = msg)
                 a -= 1
@@ -83,6 +97,8 @@ try:
         else :
             
             print(hum)
+            
+            led_off(17)
             
             if b == 1:
                 bot.sendMessage(chat_id = telegram_id, text = msg2)
